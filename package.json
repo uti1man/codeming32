@@ -1,0 +1,19 @@
+{
+  "name": "codeming32",
+  "version": "1.0.0",
+  "description": "Code compiler; Programming Quiz; Whatsapp Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coding",
+    "whatsapp",
+    "bot",
+    "programming",
+    "quiz",
+    "arena"
+  ],
+  "author": "utilmen",
+  "license": "ISC"
+}
